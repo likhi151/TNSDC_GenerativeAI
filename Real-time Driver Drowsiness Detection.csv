@@ -1,0 +1,7 @@
+Eye Closure Duration (seconds),Head Movement (degrees),Yawn Frequency (per minute),Steering Wheel Deviation (degrees),Label (Drowsy/Alert)
+0.5,10,0.2,5,Drowsy
+0.3,5,0.1,3,Alert
+0.7,15,0.3,8,Drowsy
+0.4,8,0.15,4,Alert
+0.6,12,0.25,6,Drowsy
+0.2,3,0.05,2,Alert
